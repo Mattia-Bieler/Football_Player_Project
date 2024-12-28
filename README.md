@@ -49,10 +49,15 @@ The Overview page features three cards: total value, average value, and average 
 
 The Player Information page has a button to navigate back to the Overview page. It also includes four cards with the average age card maintaining the orange colour found on the Overview page. On the Player Information page, the Midfielder Filter and Striker Filter provide insights into the specific criteria of the scouting team, and the Rest Filter reverts to the whole dataset. The page includes four graphs. The x-axis of the clustered column chart and scatter chart is changeable from the Skill Selection slicer. A bar chart shows the top players by overall and a table shows the top players by potential growth, a created column of potential minus overall.
 
-![Dashboard-League Information](https://github.com/user-attachments/assets/c72e2074-8f73-45e1-9814-7b2d43961fc4)
+![Dashboard-League Information](https://github.com/user-attachments/assets/f68b5cca-eceb-40d5-a9e5-31023891bb2f)
 
 The League Information drillthrough page is reached by pressing on a bar from the Top Leagues graph on the Overview page, activating a drill through button. Additionally, clicking a bar on the Continent Overview graph filters the Top Leagues graph, providing the option to drill through to more leagues. On the League Information page, the format for the total value, average value, and average age cards is consistent with those on the Overview page. The line chart and 'line and column chart' follow the format of those on the Overview page, while the column chart and bar chart align with the format of those on the Player Information page.
 
 ![Dashboard-Tooltip](https://github.com/user-attachments/assets/c8864b0f-977b-4139-bde7-1561c7653114)
 
 The Player Tooltip provides information when hovering over one of the players on the Top Players by Overall graphs on both the Player Information and League Information pages. Finally, several dynamic titles, parameters, calculated measures, and calculated columns were created to enhance the dashboard.
+
+## Insights and Recommendations 
+![Dashboard-Transfer Overview](https://github.com/user-attachments/assets/58910120-3666-404e-b1eb-b6236c7f66b4)
+
+On the Overview page, the Future Transfer Overview graph shows 2021 with the most contracts ending (4358) and the highest total release clause value (€21.04 billion). Meanwhile, 2026 has the highest average release clause value (€54.35 million) with only two contracts ending.
