@@ -4,21 +4,14 @@ The project's initial objective was to provide Inter Milan with an overview of c
 
 This highlights Inter Milan's challenge of failing to modernise their scouting system with data visualisation, a factor contributing to their decline in performance standards since their last trophy win in the 2010/2011 season. This report centers on the analysis conducted for the scouting team and provides targeted recommendations for player acquisitions in the upcoming transfer window, specifically addressing their interest in defensive midfielders, central midfielders, and strikers.
 
-Midfielder Specifications:
-•	Skill Selection: Interception (equal to or greater than 75).
-•	Age Range: 18-30.
-•	Positions: CDM, CM, LCM, LDM, RCM, and RDM.
-•	Release Clause: Equal to or less than €40,000,000.
-•	Weekly Wage: Equal to or less than €100,000.
-•	Exclusions: Inter Milan players and players on loan.
-
-Striker Specifications:
-•	Skill Selection: Potential (equal or greater than 80).
-•	Age Range: 16-20.
-•	Positions: LF, LS, RS, RF, and ST.
-•	Release Clause: Equal to or less than €25,000,000.
-•	Weekly Wage: Equal to or less than €25,000.
-•	Exclusions: Inter Milan players and players on loan.
+| **Criteria**           | **Midfielder Specifications**            | **Striker Specifications**             |
+|------------------------|------------------------------------------|----------------------------------------|
+| **Skill Selection**     | Interception >= 75                       | Potential ≥ 80                         |
+| **Age Range**           | 18 - 30                                  | 16 - 20                                |
+| **Positions**           | CDM, CM, LCM, LDM, RCM, RDM             | LF, LS, RS, RF, ST                    |
+| **Release Clause**      | ≤ €40,000,000                            | ≤ €25,000,000                          |
+| **Weekly Wage**         | ≤ €100,000                               | ≤ €25,000                              |
+| **Exclusions**          | Inter Milan players and players on loan  | Inter Milan players and players on loan|
 
 ## Analytical Approach
 __SQL Analytical Approach__
@@ -62,6 +55,25 @@ The Player Tooltip provides information when hovering over one of the players on
 
 On the Overview page, the Future Transfer Overview graph shows 2021 with the most contracts ending (4358) and the highest total release clause value (€21.04 billion). Meanwhile, 2026 has the highest average release clause value (€54.35 million) with only two contracts ending.
 
-![Dashboard-Top Leagues Average](https://github.com/user-attachments/assets/dc380533-4b17-4b23-9d59-a7ab4ab55ef3) ![Dashboard-Top Leagues Total](https://github.com/user-attachments/assets/fb0b8847-7b1e-412f-87ea-539c17bb2757)
+![Dashboard-Top Leagues Average](https://github.com/user-attachments/assets/dc380533-4b17-4b23-9d59-a7ab4ab55ef3) 
+![Dashboard-Top Leagues Total](https://github.com/user-attachments/assets/fb0b8847-7b1e-412f-87ea-539c17bb2757)
 
 Among top leagues, Spain leads in average player value (€5.35 million) and ranks second in total value (€6.68 billion), behind England (€7.81 billion), which has the sixth highest average value (€3.04 million). Italy follows with the second highest average value (€4.73 million) and third highest total value (€5.10 billion). It is important to note that the Top Leagues graph is filtered to display only the top ten leagues by total value, so the rankings by average value are based solely on leagues included within this filter.
+
+![Dashboard-League Information](https://github.com/user-attachments/assets/f68b5cca-eceb-40d5-a9e5-31023891bb2f)
+
+In Italy, the league averages are 69.66 overall, 74.44 potential, and 25.51 age. Juventus dominates with the highest average value (€28.18 million) and total value (€704.48 million), significantly ahead of Napoli, despite the same squad sizes. Furthermore, the top three players by overall, C. Ronaldo, G. Chiellini, and P. Dybala, all play for Juventus. Inter Milan ranks third for average value (€19.44 million) and total value (€466.49 million), with an average overall of 79.75 and potential of 81.75.
+
+![Dashboard-Midfielders](https://github.com/user-attachments/assets/f0ecdb27-58af-463a-b25e-61cf6454fed3)
+
+Focusing on the specifications provided by the scouting team, there are 199 potential players that fit the midfielder criteria. Javi Martinez is the top player not only by interception (87) but also by overall (83). It is important to note that Martinez has a high wage (€94,000) and plays for Bayern München, one of the world’s top clubs, which could make it challenging to attract a transfer to Inter Milan. It is necessary to evaluate whether he receives sufficient game time at Bayern München. With a significantly lower wage (€18,000), L. Fejsa could be a potential signing. Attracting him from SL Benfica to Inter Milan would be easier, and he has an overall of 82.
+
+Contrastingly, the scouting team could target a younger player with substantial potential growth, such as N. Barella. At just 21 years old, Barella already has an overall of 77 and a potential of 89. As an Italian player already familiar with the country's football culture, Barella’s move from Cagliari to Inter Milan would represent a significant step up in his career progression. Several other young players could also be considered. T. Adams, for instance, has less potential than Barella but would cost €21.40 million less. However, since he currently plays in the United States league, he has yet to prove himself in a top ten league. Therefore, D. Rice could be a stronger second option, as he has a slightly higher overall rating and the same potential as Adams while already playing in a top league (England).
+
+![Dashboard-Strikers](https://github.com/user-attachments/assets/17c7364a-4179-487b-be3e-8f16f9624f7c)
+
+Several promising strikers aged 16–18, who have the potential to reach an overall of 80 or higher, with release clauses below €5 million have been identified. However, five of these players have yet to achieve an overall of at least 60, posing a risk that they may not develop to meet first-team standards despite their high potential. Among those already at or above an overall of 60, I recommend P. Pellegri or W. Geubbels. Both are AS Monaco players, competing in a top five league (France). However, Pellegri, stands out with a slightly higher overall and potential. Furthermore, his Italian nationality could facilitate a smoother transition to Inter Milan, given his familiarity with the language and cultural aspects.
+
+Alternatively, young players who meet the specifications and have already proven themselves at a good standard include C. Kouame, M. Maolida, Rafael Leao, F. Chalov, I. Sacko, and K. Dolberg. These players, aged 19-20, already have an overall above 70, which is close to Inter Milan’s average overall (79.75). Furthermore, only Chalov and Dolberg do not play in a top five league. However, Dolberg plays for Ajax, who are known to develop quality players, and he has the highest overall (76) and joined second highest potential (85) out of the players mentioned. It should be noted that he does have the highest release clause (€19.20 million), whereas Sacko has release clause below €10 million and like already mentioned, plays in a top five league (France). Kouame plays in the Italian league, potentially making a transition to Inter Milan easier, and has a release clause of €11.60 million. 
+
+This report has presented some suggestions for potential signings in the next transfer window that meet the specifications provided by the scouting team. However, some key data points are missing from the dataset, which should be taken into consideration. For example, the dataset does not provide insight into how many goals and assists players had last season or so far this season. While this may be less critical for defensive and central midfielders, it is crucial for identifying ideal strikers. Furthermore, incorporating individual game ratings from recent matches, such as the last five or ten games, would provide valuable insights into a player’s current form, which the overall rating alone cannot fully capture. This is particularly important for assessing whether players receive regular game time or not.
