@@ -64,7 +64,7 @@ Among top leagues, Spain leads in average player value (€5.35 million) and ran
 
 In Italy, the league averages are 69.66 overall, 74.44 potential, and 25.51 age. Juventus dominates with the highest average value (€28.18 million) and total value (€704.48 million), significantly ahead of Napoli, despite the same squad sizes. Furthermore, the top three players by overall, C. Ronaldo, G. Chiellini, and P. Dybala, all play for Juventus. Inter Milan ranks third for average value (€19.44 million) and total value (€466.49 million), with an average overall of 79.75 and potential of 81.75.
 
-![Dashboard-Midfielders](https://github.com/user-attachments/assets/f0ecdb27-58af-463a-b25e-61cf6454fed3)
+![Dashboard-Midfielders](https://github.com/user-attachments/assets/53cd4d2e-6c1a-4c2c-bb0c-d65f9bf15a2b)
 
 Focusing on the specifications provided by the scouting team, there are 199 potential players that fit the midfielder criteria. Javi Martinez is the top player not only by interception (87) but also by overall (83). It is important to note that Martinez has a high wage (€94,000) and plays for Bayern München, one of the world’s top clubs, which could make it challenging to attract a transfer to Inter Milan. It is necessary to evaluate whether he receives sufficient game time at Bayern München. With a significantly lower wage (€18,000), L. Fejsa could be a potential signing. Attracting him from SL Benfica to Inter Milan would be easier, and he has an overall of 82.
 
