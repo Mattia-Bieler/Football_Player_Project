@@ -34,7 +34,7 @@ An additional club dataset was integrated, including 'Club,' 'League,' and 'Cont
 ## Dashboard 
 The Power BI dashboard has two standard pages (Overview and Player Information), a drillthrough page (League Information), and a tooltip (Player Tooltip).
 
-![Dashboard-Overview](https://github.com/user-attachments/assets/e2c8e8d8-a697-4a15-9f1e-5b9e82c4112c)
+![Dashboard-Overview](https://github.com/user-attachments/assets/ed2444a3-232f-471c-8b7a-f94eeea0c8ab)
 
 The Overview page features three cards: total value, average value, and average age, displayed in light blue, dark blue, and orange, respectively. These colours correspond to the same metrics used for the three ‘line and column charts’ to maintain consistency and provide clarify. The bars are changed between total value and average value using a slicer. A fourth graph (line chart) has two y-axes for average release clause and total release clause, with contact expiration date as the x-axis to provide information for future transfers. The page also has a page navigation button that directs you to the Player Information page.
 
@@ -55,8 +55,8 @@ The Player Tooltip provides information when hovering over one of the players on
 
 On the Overview page, the Future Transfer Overview graph shows 2021 with the most contracts ending (4358) and the highest total release clause value (€21.04 billion). Meanwhile, 2026 has the highest average release clause value (€54.35 million) with only two contracts ending.
 
-![Dashboard-Top Leagues Average](https://github.com/user-attachments/assets/dc380533-4b17-4b23-9d59-a7ab4ab55ef3) 
-![Dashboard-Top Leagues Total](https://github.com/user-attachments/assets/fb0b8847-7b1e-412f-87ea-539c17bb2757)
+![Dashboard-Top Leagues Average](https://github.com/user-attachments/assets/3e25ebcf-e699-49ca-bc23-9fd3990697b6)
+![Dashboard-Top Leagues Total](https://github.com/user-attachments/assets/c1bf9e18-d407-409d-b0d7-5794e36580a8)
 
 Among top leagues, Spain leads in average player value (€5.35 million) and ranks second in total value (€6.68 billion), behind England (€7.81 billion), which has the sixth highest average value (€3.04 million). Italy follows with the second highest average value (€4.73 million) and third highest total value (€5.10 billion). It is important to note that the Top Leagues graph is filtered to display only the top ten leagues by total value, so the rankings by average value are based solely on leagues included within this filter.
 
