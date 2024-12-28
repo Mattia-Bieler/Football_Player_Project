@@ -42,7 +42,7 @@ The Overview page features three cards: total value, average value, and average 
 
 The Player Information page has a button to navigate back to the Overview page. It also includes four cards with the average age card maintaining the orange colour found on the Overview page. On the Player Information page, the Midfielder Filter and Striker Filter provide insights into the specific criteria of the scouting team, and the Rest Filter reverts to the whole dataset. The page includes four graphs. The x-axis of the clustered column chart and scatter chart is changeable from the Skill Selection slicer. A bar chart shows the top players by overall and a table shows the top players by potential growth, a created column of potential minus overall.
 
-![Dashboard-League Information](https://github.com/user-attachments/assets/468e788f-1643-4335-b49f-c64d22b16718)
+![Dashboard-League Information](https://github.com/user-attachments/assets/9a498d10-2c08-4ce5-90b4-74377a48b80b)
 
 The League Information drillthrough page is reached by pressing on a bar from the Top Leagues graph on the Overview page, activating a drill through button. Additionally, clicking a bar on the Continent Overview graph filters the Top Leagues graph, providing the option to drill through to more leagues. On the League Information page, the format for the total value, average value, and average age cards is consistent with those on the Overview page. The line chart and 'line and column chart' follow the format of those on the Overview page, while the column chart and bar chart align with the format of those on the Player Information page.
 
