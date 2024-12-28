@@ -6,7 +6,7 @@ This highlights Inter Milan's challenge of failing to modernise their scouting s
 
 | **Criteria**           | **Midfielder Specifications**            | **Striker Specifications**             |
 |------------------------|------------------------------------------|----------------------------------------|
-| **Skill Selection**     | Interception >= 75                       | Potential ≥ 80                         |
+| **Skill Selection**     | Interception ≥ 75                       | Potential ≥ 80                         |
 | **Age Range**           | 18 - 30                                  | 16 - 20                                |
 | **Positions**           | CDM, CM, LCM, LDM, RCM, RDM             | LF, LS, RS, RF, ST                    |
 | **Release Clause**      | ≤ €40,000,000                            | ≤ €25,000,000                          |
