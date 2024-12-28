@@ -42,7 +42,7 @@ The Overview page features three cards: total value, average value, and average 
 
 The Player Information page has a button to navigate back to the Overview page. It also includes four cards with the average age card maintaining the orange colour found on the Overview page. On the Player Information page, the Midfielder Filter and Striker Filter provide insights into the specific criteria of the scouting team, and the Rest Filter reverts to the whole dataset. The page includes four graphs. The x-axis of the clustered column chart and scatter chart is changeable from the Skill Selection slicer. A bar chart shows the top players by overall and a table shows the top players by potential growth, a created column of potential minus overall.
 
-![Dashboard-League Information](https://github.com/user-attachments/assets/f68b5cca-eceb-40d5-a9e5-31023891bb2f)
+![Dashboard-League Information](https://github.com/user-attachments/assets/468e788f-1643-4335-b49f-c64d22b16718)
 
 The League Information drillthrough page is reached by pressing on a bar from the Top Leagues graph on the Overview page, activating a drill through button. Additionally, clicking a bar on the Continent Overview graph filters the Top Leagues graph, providing the option to drill through to more leagues. On the League Information page, the format for the total value, average value, and average age cards is consistent with those on the Overview page. The line chart and 'line and column chart' follow the format of those on the Overview page, while the column chart and bar chart align with the format of those on the Player Information page.
 
@@ -60,7 +60,7 @@ On the Overview page, the Future Transfer Overview graph shows 2021 with the mos
 
 Among top leagues, Spain leads in average player value (€5.35 million) and ranks second in total value (€6.68 billion), behind England (€7.81 billion), which has the sixth highest average value (€3.04 million). Italy follows with the second highest average value (€4.73 million) and third highest total value (€5.10 billion). It is important to note that the Top Leagues graph is filtered to display only the top ten leagues by total value, so the rankings by average value are based solely on leagues included within this filter.
 
-![Dashboard-League Information](https://github.com/user-attachments/assets/f68b5cca-eceb-40d5-a9e5-31023891bb2f)
+![Dashboard-League Information](https://github.com/user-attachments/assets/468e788f-1643-4335-b49f-c64d22b16718)
 
 In Italy, the league averages are 69.66 overall, 74.44 potential, and 25.51 age. Juventus dominates with the highest average value (€28.18 million) and total value (€704.48 million), significantly ahead of Napoli, despite the same squad sizes. Furthermore, the top three players by overall, C. Ronaldo, G. Chiellini, and P. Dybala, all play for Juventus. Inter Milan ranks third for average value (€19.44 million) and total value (€466.49 million), with an average overall of 79.75 and potential of 81.75.
 
