@@ -44,3 +44,15 @@ The Power BI dashboard has two standard pages (Overview and Player Information),
 ![Dashboard-Overview](https://github.com/user-attachments/assets/8d83e74f-679a-476b-b0f4-0cd3012f264a)
 
 The Overview page features three cards: total value, average value, and average age, displayed in light blue, dark blue, and orange, respectively. These colours correspond to the same metrics used for the three ‘line and column charts’ to maintain consistency and provide clarify. The bars are changed between total value and average value using a slicer. A fourth graph (line chart) has two y-axes for average release clause and total release clause, with contact expiration date as the x-axis to provide information for future transfers. The page also has a page navigation button that directs you to the Player Information page.
+
+![Dashboard-Player Information](https://github.com/user-attachments/assets/c7234341-6ab6-40ee-913d-84036d2c0bbe)
+
+The Player Information page has a button to navigate back to the Overview page. It also includes four cards with the average age card maintaining the orange colour found on the Overview page. On the Player Information page, the Midfielder Filter and Striker Filter provide insights into the specific criteria of the scouting team, and the Rest Filter reverts to the whole dataset. The page includes four graphs. The x-axis of the clustered column chart and scatter chart is changeable from the Skill Selection slicer. A bar chart shows the top players by overall and a table shows the top players by potential growth, a created column of potential minus overall.
+
+![Dashboard-League Information](https://github.com/user-attachments/assets/c72e2074-8f73-45e1-9814-7b2d43961fc4)
+
+The League Information drillthrough page is reached by pressing on a bar from the Top Leagues graph on the Overview page, activating a drill through button. Additionally, clicking a bar on the Continent Overview graph filters the Top Leagues graph, providing the option to drill through to more leagues. On the League Information page, the format for the total value, average value, and average age cards is consistent with those on the Overview page. The line chart and 'line and column chart' follow the format of those on the Overview page, while the column chart and bar chart align with the format of those on the Player Information page.
+
+![Dashboard-Tooltip](https://github.com/user-attachments/assets/c8864b0f-977b-4139-bde7-1561c7653114)
+
+The Player Tooltip provides information when hovering over one of the players on the Top Players by Overall graphs on both the Player Information and League Information pages. Finally, several dynamic titles, parameters, calculated measures, and calculated columns were created to enhance the dashboard.
