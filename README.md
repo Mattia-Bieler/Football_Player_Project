@@ -38,7 +38,7 @@ The Power BI dashboard has two standard pages (Overview and Player Information),
 
 The Overview page features three cards: total value, average value, and average age, displayed in light blue, dark blue, and orange, respectively. These colours correspond to the same metrics used for the three ‘line and column charts’ to maintain consistency and provide clarify. The bars are changed between total value and average value using a slicer. A fourth graph (line chart) has two y-axes for average release clause and total release clause, with contact expiration date as the x-axis to provide information for future transfers. The page also has a page navigation button that directs you to the Player Information page.
 
-![Dashboard-Player Information](https://github.com/user-attachments/assets/c7234341-6ab6-40ee-913d-84036d2c0bbe)
+![Dashboard-Player Information](https://github.com/user-attachments/assets/252753c9-51d8-4057-ab65-a959bcd4f49d)
 
 The Player Information page has a button to navigate back to the Overview page. It also includes four cards with the average age card maintaining the orange colour found on the Overview page. On the Player Information page, the Midfielder Filter and Striker Filter provide insights into the specific criteria of the scouting team, and the Rest Filter reverts to the whole dataset. The page includes four graphs. The x-axis of the clustered column chart and scatter chart is changeable from the Skill Selection slicer. A bar chart shows the top players by overall and a table shows the top players by potential growth, a created column of potential minus overall.
 
