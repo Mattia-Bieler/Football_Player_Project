@@ -1,0 +1,68 @@
+﻿Metadata for players_gamedetails.csv, players_personal.csv, and club_data.csv
+
+players_gamedetails.csv
+ID: Example - 16
+Overall: Example - 71
+Potential: Example - 71
+Crossing: Example - 68
+Finishing: Example - 64
+HeadingAccuracy: Example - 61
+ShortPassing: Example - 76
+Volleys: Example - 68
+Dribbling: Example - 69
+Curve: Example - 79
+FKAccuracy: Example - 79
+LongPassing: Example - 71
+BallControl: Example - 71
+Acceleration: Example - 56
+SprintSpeed: Example - 50
+Agility: Example - 62
+Reactions: Example - 65
+Balance: Example - 72
+ShotPower: Example - 75
+Jumping: Example - 54
+Stamina: Example - 64
+Strength: Example - 60
+LongShots: Example - 71
+Aggression: Example - 71
+Interceptions: Example - 71
+Positioning: Example - 72
+Vision: Example - 73
+Penalties: Example - 75
+Composure: Example - 79
+Marking: Example - 70
+StandingTackle: Example - 43
+SlidingTackle: Example - 40
+GKDiving: Example - 9
+GKHandling: Example - 12
+GKKicking: Example - 13
+GKPositioning: Example - 11
+GKReflexes: Example - 11
+International Reputation: Example - 1
+Weak Foot: Example - 4
+Skill Moves: Example - 3
+
+players_personal.csv
+ID: Example - 16
+Name: Example - Luis García
+Age: Example - 37
+Nationality: Example - Spain
+Club: Example - KAS Eupen
+Position: Example - RCM
+Height: Example - 5'10
+Weight: Example - 143lbs
+Preferred Foot: Example - Right
+Work Rate: Example - Medium/Medium
+Body Type: Example - Lean
+Joined: Example - 2014-07-19
+Loaned From: Example - Juventus
+Contract Valid Until: Example - 2019
+Value: Example - €750K
+Release Clause: Example - €1.1M
+Wage: Example - €6K
+
+club_data.csv
+Club: Example - 1. FC Heidenheim 1846
+Country: Example - Germany
+Continent: Example - Europe
+
