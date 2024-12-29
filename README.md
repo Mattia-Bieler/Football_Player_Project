@@ -29,7 +29,7 @@ The random forest model without outliers outperformed the others, achieving the 
 #### Power BI Analytical Approach
 In Power BI, the dataset's headers were promoted, text values trimmed, and column names adjusted for better readability. Data types were updated for accuracy, such as converting financial metrics to currency. Missing values in some columns were replaced (e.g. ‘N/A’ for blanks), and targeted substitutions enhanced clarity, such as abbreviating names.
 
-An additional club dataset was integrated, including 'Club,' 'League,' and 'Continent' columns. In the club dataset, ‘League’ refers to the country of the club rather than a specific competition. A many-to-one relationship was established between the two datasets using the ‘Club’ columns. This integration enabled insights into domestic club football and continental club football statistics.
+An additional club dataset was integrated, including club, league, and continent columns. In the club dataset, ‘League’ refers to the country of the club rather than a specific competition. A many-to-one relationship was established between the two datasets using the club columns. This integration enabled insights into domestic club football and continental club football statistics.
 
 ## Dashboard 
 The Power BI dashboard has two standard pages (Overview and Player Information), a drillthrough page (League Information), and a tooltip (Player Tooltip).
