@@ -1,4 +1,4 @@
-# Football Player Project
+# Football Players Project
 ## Project Background
 The project's initial objective was to provide Inter Milan with an overview of current player, club, and national team statistics, focusing on metrics such as the average player age per club/nationality and total player value per club/nationality. Following this analysis, the scouting team requested a dashboard to visually represent the data, emphasising transfer details, league insights (primarily Italy), and player skill metrics.
 
