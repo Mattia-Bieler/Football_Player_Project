@@ -55,8 +55,8 @@ The Player Tooltip provides information when hovering over one of the players on
 
 On the Overview page, the Future Transfer Overview graph shows 2021 with the most contracts ending (4358) and the highest total release clause value (€21.04 billion). Meanwhile, 2026 has the highest average release clause value (€54.35 million) with only two contracts ending.
 
-![Dashboard-Top Leagues Average](https://github.com/user-attachments/assets/3e25ebcf-e699-49ca-bc23-9fd3990697b6)
-![Dashboard-Top Leagues Total](https://github.com/user-attachments/assets/c1bf9e18-d407-409d-b0d7-5794e36580a8)
+![Dashboard-Top Leagues Average](https://github.com/user-attachments/assets/e082511e-826f-4684-bac0-3914b67b5179)
+![Dashboard-Top Leagues Total](https://github.com/user-attachments/assets/96d20789-46ec-47cd-b260-8a41368ea86d)
 
 Among top leagues, Spain leads in average player value (€5.35 million) and ranks second in total value (€6.68 billion), behind England (€7.81 billion), which has the sixth highest average value (€3.04 million). Italy follows with the second highest average value (€4.73 million) and third highest total value (€5.10 billion). It is important to note that the Top Leagues graph is filtered to display only the top ten leagues by total value, so the rankings by average value are based solely on leagues included within this filter.
 
