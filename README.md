@@ -51,7 +51,7 @@ The League Information drillthrough page is reached by pressing on a bar from th
 The Player Tooltip provides information when hovering over one of the players on the Top Players by Overall graphs on both the Player Information and League Information pages. Finally, several dynamic titles, parameters, calculated measures, and calculated columns were created to enhance the dashboard.
 
 ## Insights and Recommendations 
-![Dashboard-Transfer Overview](https://github.com/user-attachments/assets/58910120-3666-404e-b1eb-b6236c7f66b4)
+![Dashboard-Transfer Overview](https://github.com/user-attachments/assets/0460f9c5-4324-45a4-ab88-665b9d07eb2c)
 
 On the Overview page, the Future Transfer Overview graph shows 2021 with the most contracts ending (4358) and the highest total release clause value (€21.04 billion). Meanwhile, 2026 has the highest average release clause value (€54.35 million) with only two contracts ending.
 
