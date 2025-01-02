@@ -34,7 +34,7 @@ An additional club dataset was integrated, including club, league, and continent
 ## Dashboard 
 The Power BI dashboard has two standard pages (Overview and Player Information), a drillthrough page (League Information), and a tooltip (Player Tooltip).
 
-![Dashboard-Overview](https://github.com/user-attachments/assets/ed2444a3-232f-471c-8b7a-f94eeea0c8ab)
+![Dashboard-Overview](https://github.com/user-attachments/assets/20349f6a-505a-4178-b021-51e48619cbd8)
 
 The Overview page features three cards: total value, average value, and average age, displayed in light blue, dark blue, and orange, respectively. These colours correspond to the same metrics used for the three ‘line and column charts’ to maintain consistency and provide clarity. The bars are changed between total value and average value using a slicer. A fourth graph (line chart) has two y-axes for average release clause and total release clause, with contract expiration date as the x-axis to provide information for future transfers. The page also has a page navigation button that directs you to the Player Information page.
 
